@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Hello</title>
 </head>
 <body>
 
+<<<<<<< HEAD:index.txt
 <h1>Hello</h1>
+=======
+<h1>Hello!</h1>
+>>>>>>> 505300a6d5cd6015b6d46ffadb4062362d3dedea:index.html
 <p>Whassup?</p>
 
 </body>
